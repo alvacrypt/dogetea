@@ -1,0 +1,2 @@
+# dogetea
+tea testnet
